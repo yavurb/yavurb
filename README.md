@@ -1,7 +1,7 @@
 # Hey, I'm Roy 🐙
 ### A Software Engineer who's passionate about building software
 
-I create things using Python, JS and Golang. I enjoy developing many ideas and here you may find many of them.
+I create things using Python, JS and Golang. I enjoy developing many ideas and here you may find some of them.
 
 
 ---
