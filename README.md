@@ -32,4 +32,6 @@ I create things using Python, JS and Golang. I enjoy developing many ideas and h
 
 [![wakatime](https://wakatime.com/badge/user/197cd77f-ed5f-43c8-b23e-27ed857ab296.svg)](https://wakatime.com/@197cd77f-ed5f-43c8-b23e-27ed857ab296)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavurb&layout=compact&langs_count=8&card_width=320)
+<div>
+	<img width="600" src="https://wakatime.com/share/@yurb/06849746-e13c-45e1-88e3-7f11ec5ba6a4.svg" alt="Astro" title="Astro"/>
+</div>
